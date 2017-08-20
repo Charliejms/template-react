@@ -1,0 +1,28 @@
+{
+  "name": "template-react",
+  "version": "1.0.0",
+  "description": "Test React Template",
+  "main": "index.js",
+  "scripts": {
+    "start": "npm run serve && npm open",
+    "serve": "webpack-dev-server --devtool sourcemap --progress --colors --content-base dist/ --inline",
+    "open": "opener http://localhost:8080",
+    "deploy": "webpack"
+  },
+  "author": "Richard Cacuango",
+  "license": "ISC",
+  "devDependencies": {
+    "babel-core": "^6.26.0",
+    "babel-loader": "^7.1.2",
+    "babel-preset-es2015": "^6.24.1",
+    "babel-preset-react": "^6.24.1",
+    "babel-preset-stage-1": "^6.24.1",
+    "opener": "^1.4.3",
+    "webpack": "^3.5.5",
+    "webpack-dev-server": "^2.7.1"
+  },
+  "dependencies": {
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1"
+  }
+}
