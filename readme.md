@@ -1,4 +1,4 @@
-Qué es React?
+##Qué es React?
 
 Librería para crear aplicaciones en JavaScript
 
@@ -42,7 +42,7 @@ squared(numList);
 
 ----------------------
 
-- Qué nos aporta React?
+### Qué nos aporta React?
     - Composición de Componentes: (Composición Funcional)
     
         Nos permite separa los problemas en pequeños trozos. y que cada una de estos trozos mediante la composicion nos permita solucionar un problema mas grande.
@@ -109,4 +109,12 @@ squared(numList);
     
     ECMAScript 2015
     [Exploring ES6](http://exploringjs.com/)
+    
+    [ES6 features](http://es6-features.org/)
+    
+    [Babel ES6](https://babeljs.io/learn-es2015/)
+    
+    [Repo Git ES6](https://github.com/lukehoban/es6features#readme)
+
+
     
