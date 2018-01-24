@@ -1,4 +1,4 @@
-##Qué es React?
+## Qué es React?
 
 Librería para crear aplicaciones en JavaScript
 
