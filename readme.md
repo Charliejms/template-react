@@ -57,7 +57,7 @@ squared(numList);
 
 - Isomorfismo (Se ejecuta en cliente y servidor)
 
-##Compoments
+## Compoments
 
 - Elementos y JSX
     - React JS no retorna HTML. (Syntactic sugar)
